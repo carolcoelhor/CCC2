@@ -1,1 +1,2 @@
-# CCC2
+# CaminhodeCora2
+Portal Educacional Caminho de Cora
