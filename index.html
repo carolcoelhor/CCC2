@@ -67,6 +67,10 @@
             align-items: center;
             gap: 8px;
         }
+        .logo-info {
+            display: flex;
+           flex-direction: column;
+        }
 
         .logo-lapig {
             width: 60px;
@@ -355,13 +359,24 @@
     <div id="app">
         <!-- Header -->
         <header>
-            <div class=".logo-icons">
+            <div class="logo">
+                
+            <div class="logo-icons">
                 <img src="logolapig.png" alt="Logo Lapig" class="logo-lapig">
                 <img src="logoccc.png" alt="Logo CCC" class="logo-ccc">
-                                <div>
-                    <div class="logo-text">Atlas Digital Ambiental <span class="logo-subtext">Caminho de Cora Coralina</span></div>
+            <div>
+                
+            <div class="logo-info">
+                <div class="logo-text">
+                    Atlas Digital Ambiental
                 </div>
+
+                <span class="logo-subtext">
+                    Caminho de Cora Coralina
+                </span>
             </div>
+        
+        </div>
             
             <div class="header-controls">
                 <button class="menu-toggle" id="menuToggle">
