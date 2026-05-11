@@ -1,2 +1,2 @@
-# CaminhodeCora2
-Portal Educacional Caminho de Cora
+# CaminhodeCoraCoralina
+Portal Educacional Caminho de Cora Coralina
